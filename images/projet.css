@@ -1,0 +1,54 @@
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+.compte{
+    background-color: black;
+    color: red;
+    width: 150px;
+    padding: 5px;
+    font-size: 1.6em;
+
+}
+.compte:hover{
+    color: salmon;
+}
+marquee{
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: underline  rgb(254, 255, 181);
+    background-color: rgb(0, 0, 19);
+    width: 60%;
+    margin-left:200px;
+}
+h1{
+    text-align: center;
+    margin: 10px;
+    color: red;
+}
+blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+    margin: 15px;
+}
+summary{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+header{
+    position: fixed;
+    background-color: white
+}
